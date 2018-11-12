@@ -100,7 +100,17 @@ textarea {
 
 
 
+tr {
+    border: 0.5px solid black;
+}
 
+th {
+    border: 0.5px solid black;
+}
+
+tbody {
+    background-color: blue;
+}
 
 
 

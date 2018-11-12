@@ -2,7 +2,7 @@
 <html class="no-js" lang="fr">
 
 <head>
-  <title>Exercice 3 JS</title>
+  <title>Exercice 4 JS</title>
   <meta charset="utf-8">
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,6 +14,30 @@
 </head>
 
 <body>
+  <div class="col-12 m-0 p-0 text-center">
+    <select class="text-center" onchange="changeOrder(this.value)">
+      <option value="id">ID</option>
+      <option value="name">Nom</option>
+      <option value="age">Age</option>
+      <option value="from">Ville</option>
+    </select>
+  </div>
+  <table class="col-6 mx-auto" style="text-align: center; margin-top: 25px;" id="newlist">
+    <tr>
+      <th>
+        ID
+      </th>
+      <th>
+        Nom
+      </th>
+      <th>
+        Age
+      </th>
+      <th>
+        Ville
+      </th>
+    </tr>
+  </table>
 
 
   <script src="js/vendor/modernizr-3.6.0.min.js"></script>

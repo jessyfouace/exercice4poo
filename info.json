@@ -1,0 +1,31 @@
+[{
+        "id": 6,
+        "name": "Bryan",
+        "age": 20,
+        "from": "Angleterre"
+    },
+    {
+        "id": 1,
+        "name": "Jean-Luc",
+        "age": 28,
+        "from": "Espagne"
+    },
+    {
+        "id": 2,
+        "name": "Lucas",
+        "age": 97,
+        "from": "France"
+    },
+    {
+        "id": 3,
+        "name": "Maurice",
+        "age": 10,
+        "from": "Pays-Bas"
+    },
+    {
+        "id": 4,
+        "name": "Albert",
+        "age": 15,
+        "from": "Allemagne"
+    }
+]
