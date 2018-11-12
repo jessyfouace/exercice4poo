@@ -112,6 +112,10 @@ tbody {
     background-color: blue;
 }
 
+#newlist {
+    background-color: inherit;
+}
+
 
 
 
